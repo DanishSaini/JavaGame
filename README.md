@@ -1,4 +1,6 @@
 # JavaGame
-This is my first Java project.
+This was a fun project to work on over Winter Break
 
-**WELCOME HAHAHAH**
+To use, simply compile the application and run.
+
+***Enjoy :)***
