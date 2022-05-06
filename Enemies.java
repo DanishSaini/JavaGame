@@ -27,11 +27,12 @@ public class Enemies{
     }
     //We are not setting the name for enemyName, we are just getting a random enemy from the array
 
-    //getters
+    // Getters
     public int getEnemyDamage(){
         return enemyDamage;
     }
 
+    // Cool Code
     public int getEnemyHealth(){
         return enemyHealth;
     }
@@ -40,4 +41,7 @@ public class Enemies{
         return enemyName;
     }
 
+    public String uselessFeature() {
+        return "Useless";
+    }
 }
